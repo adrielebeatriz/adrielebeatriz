@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌎 Olá, meu nome é Adriele Beatriz, Sou Desenvolvedora de Front-End junior aspirante a ser fullstack.
+🌎 Olá, meu nome é Adriele Beatriz, Sou Desenvolvedora de Software junior. 
 
 🦄 Habilidades: HTML, CSS, JavaScript basico.
 
