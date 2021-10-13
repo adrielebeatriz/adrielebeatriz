@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌎 Olá, meu nome é Adriele Beatriz, Sou Desenvolvedora de Software junior. 
 
-🦄 Habilidades: HTML, CSS, Banco de dados, JavaScript  e Python basico.
+🦄 Habilidades: HTML, CSS, Banco de dados, JavaScript, Java e Python basico.
 
 💼 Ferramentas: VSCode,  GitHub.
 💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
